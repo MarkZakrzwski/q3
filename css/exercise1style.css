@@ -1,0 +1,25 @@
+body{
+	background-color: #4C4053;
+}
+
+h1{
+	border-bottom: 2px white dashed;
+	color: #FF6B6B;
+	text-align: center;	
+}
+
+h2{
+	color: white;
+}
+
+ol{
+	border: 3px #4ECDC4 solid;
+	color: white
+}
+
+img{
+	border: 3px white solid;
+}
+.color1{
+	color: #ED8F1F;
+}
