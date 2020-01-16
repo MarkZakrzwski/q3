@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+	color: #EE0D0D;
+}
+
+
+
+.title1{
+	border: 3px #E79E14 dashed;
+}
+
+.title2{
+	border: 3px #868971 dashed;
+}
+
+.title3{
+	border: 3px #715129 dashed;
+}
+
+img{
+	border: 3px #F7E313 solid;
+	width: 25%
+}
+
+body{
+	background-color: #0BCDFC
+}
+
