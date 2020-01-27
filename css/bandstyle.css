@@ -1,0 +1,58 @@
+.wrapper{
+	max-width: 80%;
+	margin: 0 auto;
+	background-color: #63F00E;
+	padding: 10px;
+	border: 3px solid;
+}
+
+h1{
+	text-align: center;
+	color: #BD3126;
+}
+
+section{
+	padding-left: 35px;
+	padding: 10px;
+	margin: 15px;
+	border: 2px solid;
+}
+
+
+p{
+	padding-left: 275px;
+}
+
+.link{
+	padding-left: 0px
+}
+
+img{
+	max-width: 250px;
+	float: left;
+	border: 3px solid;
+}
+
+.clearfix:after{
+		content: "";
+		visibility: hidden;
+		display: block;
+		height: 0;
+		clear: both;
+}
+
+footer{
+	text-align: center;
+}
+
+.story{
+	background-color: #E1ED27;
+}
+
+.songs{
+	background-color: #17D9E6;
+}
+
+.success{
+	background-color: #1778E6;
+}

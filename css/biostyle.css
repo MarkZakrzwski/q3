@@ -1,15 +1,23 @@
+.wrapper{
+	max-width: 80%;
+	margin: 0 auto;
+	background-color: #63F00E;
+	padding: 10px;
+	border: 3px solid;
+
+}
+
 h1{
 	text-align: center;
-	color: #FF5833;
+	color: #F0370E;
 }
 
 h3{
 	color: #0B90F8;
 }
 
-
 body{
-	background-color: #F8F10B;
+	background-color: #0325FB;
 }
 
 img{
@@ -17,6 +25,33 @@ img{
 	border: 3px #0B90F8 dashed;
 }
 
+section{
+	padding-left: 35px;
+	padding: 10px;
+	margin: 15px;
+	border: 2px solid;
+}
+
+.sectionstudent{
+	background-color: #DFF00E;
+}
+
+.sectionsoccer{
+	background-color: #17D9E6;
+}
+
+.sectionsteelers{
+	background-color: #1778E6;
+}
+
+.sectionlinks{
+	background-color: #E67817;
+}
+
 .studentpara{
-	color: orange
+	color: #F0780E;
+}
+
+footer{
+	text-align: center;
 }
