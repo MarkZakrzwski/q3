@@ -1,0 +1,18 @@
+.boxes{
+	display: flex;
+}
+
+.ingredients{
+	width: 100px;
+}
+
+.list{
+	display: flex;
+	flex-direction: row;
+}
+
+img{
+	max-width: 40%;
+}
+
+
